@@ -21,12 +21,13 @@ Raw simulator masks use high-value IDs (100–10,000) that cause training crashe
 
 ### **1. Setup account and download offline data**
 Ensure your Linux environment (Kali/Ubuntu) has the necessary runtime:
-```bash
+
 #### Set a account
 https://falcon.duality.ai/auth/sign-up?utm_source=hackathon&utm_medium=instructions&utm_campaign=HacktheNight
 
+```bash
 #### download training data
-https://falcon.duality.ai/secure/documentation/hackathon-segmentation-desert?utm_source=hackathon&utm_medium=instructions&utm_campaign=HacktheNight
+wget https://falcon.duality.ai/secure/documentation/hackathon-segmentation-desert?utm_source=hackathon&utm_medium=instructions&utm_campaign=HacktheNight
 ```
 
 ### **1. Install Python**
